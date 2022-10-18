@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@uikit/*": ["./src/UIKit/*"]
+    }
+  }
+}
